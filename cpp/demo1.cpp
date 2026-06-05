@@ -1,4 +1,5 @@
-
+// compile with g++ -std=c++17 demo1.cpp -o call_node
+// then ./call_node
 #include <cstdio>
 #include <iostream>
 #include <memory>
